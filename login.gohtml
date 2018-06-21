@@ -1,0 +1,22 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+     <meta charset="UTF-8"/>
+     <title>Login Exemple - Using template</title>
+ </head>
+ <body>
+     {{if .}}
+     <p> Hello {{.Name}} </p>
+     <script>
+        alert("Login done successfully");
+     </script>
+     {{end}}
+     {{if not .}}
+     <form method="POST">
+        <input type='text' name='login'>
+        <input type='password' name='pass'>
+        <input type='submit' value='GO' >
+     </form>
+    {{end}}
+</body>
+ </html>
