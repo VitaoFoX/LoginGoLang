@@ -49,7 +49,7 @@ func login(w http.ResponseWriter, req *http.Request) {
 func init() {
 	tpl = template.Must(template.ParseFiles("login.gohtml"))
 	http.HandleFunc("/", login)
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	//log.Fatal(http.ListenAndServe(":8080", nil))
 }
 
 /*func main() {
