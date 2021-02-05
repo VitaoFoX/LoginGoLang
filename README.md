@@ -11,3 +11,8 @@ Projeto criado para um exemplo básico de login utilizando Golang e seus templat
 go run exempleLogin.go
 ```
 
+### Packges utilizadas
+* html/template
+* log
+* net/http
+
