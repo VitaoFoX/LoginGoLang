@@ -5,3 +5,9 @@
 ## Projeto
 Projeto criado para um exemplo básico de login utilizando Golang e seus templates
 
+### Running
+
+```sh
+go run main.go login.go
+```
+
