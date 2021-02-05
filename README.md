@@ -1,5 +1,7 @@
-# Example Login with GO - By Vitor Bruno
-Example Login Using GO
+<h3 align="center">
+  Exemplo de login
+</h3>
 
-This example using template of GO
+## Projeto
+Projeto criado para um exemplo básico de login utilizando Golang e seus templates
 
