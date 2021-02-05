@@ -8,6 +8,6 @@ Projeto criado para um exemplo básico de login utilizando Golang e seus templat
 ### Running
 
 ```sh
-go run main.go login.go
+go run exempleLogin.go
 ```
 
