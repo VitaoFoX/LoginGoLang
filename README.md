@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Exemplo de login
-</h3>
+</h1>
 
 ## Projeto
 Projeto criado para um exemplo básico de login utilizando Golang e seus templates
